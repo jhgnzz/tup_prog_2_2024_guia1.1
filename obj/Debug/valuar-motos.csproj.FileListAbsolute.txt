@@ -1,0 +1,11 @@
+C:\Users\jnhpt\source\repos\utn\valuar-motos\bin\Debug\valuar-motos.exe.config
+C:\Users\jnhpt\source\repos\utn\valuar-motos\bin\Debug\valuar-motos.exe
+C:\Users\jnhpt\source\repos\utn\valuar-motos\bin\Debug\valuar-motos.pdb
+C:\Users\jnhpt\source\repos\utn\valuar-motos\obj\Debug\valuar-motos.csproj.AssemblyReference.cache
+C:\Users\jnhpt\source\repos\utn\valuar-motos\obj\Debug\valuar_motos.FormPrincipal.resources
+C:\Users\jnhpt\source\repos\utn\valuar-motos\obj\Debug\valuar_motos.FormResultados.resources
+C:\Users\jnhpt\source\repos\utn\valuar-motos\obj\Debug\valuar_motos.Properties.Resources.resources
+C:\Users\jnhpt\source\repos\utn\valuar-motos\obj\Debug\valuar-motos.csproj.GenerateResource.cache
+C:\Users\jnhpt\source\repos\utn\valuar-motos\obj\Debug\valuar-motos.csproj.CoreCompileInputs.cache
+C:\Users\jnhpt\source\repos\utn\valuar-motos\obj\Debug\valuar-motos.exe
+C:\Users\jnhpt\source\repos\utn\valuar-motos\obj\Debug\valuar-motos.pdb
